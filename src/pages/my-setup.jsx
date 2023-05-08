@@ -48,6 +48,10 @@ export default function MySetup() {
               The best multi-purpose monitor I could think of. Great colors, low input lag.
               Ideal for a combination of graphic design, video editing and long hours of coding.
             </Tool>
+            <Tool title="Wacom Cintiq Pro 16">
+              I was skeptic at first when moving to a graphic tablet with a screen, but this transition was definitely
+              worth it. The best pen display I could ever go for.
+            </Tool>
           </ToolsSection>
           <ToolsSection title="Development tools">
             <Tool title="JetBrains IntelliJ IDEA">
